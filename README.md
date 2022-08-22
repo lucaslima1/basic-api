@@ -1,2 +1,4 @@
 # basic-api
-estrutura básica de API para auxílio
+Estrutura básica de API para auxílio no consumo de dados.
+
+Basic API structure to aux data consumption.
